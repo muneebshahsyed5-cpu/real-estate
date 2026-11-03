@@ -673,7 +673,9 @@
                         <i class="bi bi-buildings-fill fs-5"></i>
                     </div>
                     <div>
-                        <span class="fs-5 fw-bold text-black tracking-tight">Estate<span
+                        {{-- <span class="fs-5 fw-bold text-black tracking-tight">Estate<span
+                                class="text-primary">Pro</span></span> --}}
+                        <span class="fs-5 fw-bold text-black tracking-tight">Web<span
                                 class="text-primary">Pro</span></span>
                         <span
                             class="badge bg-success bg-opacity-25 border border-success-subtle text-success ms-1 py-0 px-1"
